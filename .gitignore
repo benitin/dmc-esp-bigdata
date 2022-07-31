@@ -1,0 +1,6 @@
+notebook/
+venv/
+docs/
+.ipynb_checkpoints
+*.json
+*.csv
